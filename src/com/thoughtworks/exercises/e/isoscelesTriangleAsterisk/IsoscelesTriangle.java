@@ -1,4 +1,4 @@
-package com.thoughtworks.exercises.e;
+package com.thoughtworks.exercises.e.isoscelesTriangleAsterisk;
 
 public class IsoscelesTriangle {
 
