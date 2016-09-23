@@ -1,4 +1,4 @@
-package com.thoughtworks.exercises.oneAsterisk;
+package com.thoughtworks.exercises.a.oneAsterisk;
 
 public class OneAsterisk {
 
