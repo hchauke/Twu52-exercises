@@ -1,6 +1,7 @@
 package com.thoughtworks.exercises.b;
 
-import exercises.b.horizontalAsterisk.HorizontalLine;
+
+import com.thoughtworks.exercises.b.horizontalAsterisk.HorizontalLine;
 
 public class Main {
 
