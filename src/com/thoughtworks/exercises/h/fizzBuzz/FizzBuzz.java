@@ -4,7 +4,7 @@ public class FizzBuzz implements  Divide{
 
     public void fizzBuzz() {
 
-        for (int i = 1; i <= 16; i++) {
+        for (int i = 1; i <= 100; i++) {
 
             String fizz = "Fizz";
             String buzz = "Buzz";

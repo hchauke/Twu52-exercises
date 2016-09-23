@@ -1,6 +1,7 @@
 package com.thoughtworks.exercises.f;
 
-import exercises.f.diamondAsterisk.Diamond;
+
+import com.thoughtworks.exercises.f.diamondAsterisk.Diamond;
 
 public class Main {
 

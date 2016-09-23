@@ -1,6 +1,7 @@
 package com.thoughtworks.exercises.g;
 
-import exercises.g.diamondwithNameAsterisk.DiamondWithName;
+
+import com.thoughtworks.exercises.g.diamondwithNameAsterisk.DiamondWithName;
 
 public class Main {
 

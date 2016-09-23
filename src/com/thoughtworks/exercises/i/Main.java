@@ -9,6 +9,7 @@ public class Main {
 
         PrimeFactor primeFactor = new PrimeFactor();
 
+        System.out.printf("Prime factors of number '%d' are : %s %n", 1, primeFactor.generate(1));
         System.out.printf("Prime factors of number '%d' are : %s %n", 30, primeFactor.generate(15));
     }
 }
